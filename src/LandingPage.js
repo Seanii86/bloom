@@ -12,7 +12,7 @@ const LandingPage = ({ onFadeOut }) => {
 
   return (
     <div className="landing-page">
-      <h1>I'M SORRY I LOVE YOU</h1>
+      <h1>Flowers for you</h1>
     </div>
   );
 };
