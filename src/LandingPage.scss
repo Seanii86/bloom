@@ -1,0 +1,16 @@
+// src/LandingPage.scss
+.landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: black;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    transition: opacity 1s;
+
+    &.fade-out {
+        opacity: 0;
+    }
+}
