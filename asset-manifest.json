@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bloom/static/css/main.6facc90c.css",
+    "main.js": "/bloom/static/js/main.bd610440.js",
+    "static/js/453.07bc1902.chunk.js": "/bloom/static/js/453.07bc1902.chunk.js",
+    "index.html": "/bloom/index.html",
+    "main.6facc90c.css.map": "/bloom/static/css/main.6facc90c.css.map",
+    "main.bd610440.js.map": "/bloom/static/js/main.bd610440.js.map",
+    "453.07bc1902.chunk.js.map": "/bloom/static/js/453.07bc1902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6facc90c.css",
+    "static/js/main.bd610440.js"
+  ]
+}
